@@ -20,3 +20,5 @@ include: "/views/*.view.lkml"                # include all views in the views/ f
 # }
 
 explore: fifa_players {}
+
+explore: usa_1910_current {}
